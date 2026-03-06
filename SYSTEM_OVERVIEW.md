@@ -1,6 +1,9 @@
 # ASI System Overview
 
-ASI (Autonomous Systems Integration) is a modular automation platform designed to manage and optimize operational workflows for distributed assets such as short-term rental properties.
+ASI (Autonomous Systems Integration) is a modular automation platform designed to manage and optimize operational workflows for distributed assets such as short-term rental properties. 
+System structure map:
+
+→ ASI_SYSTEM_MAP.md
 
 The system architecture is organized around several operational contours:
 
